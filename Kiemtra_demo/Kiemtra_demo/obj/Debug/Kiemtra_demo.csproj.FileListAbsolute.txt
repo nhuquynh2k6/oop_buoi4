@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Admin\Desktop\ConsoleApplication3\Kiemtra_demo\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Admin\Desktop\ConsoleApplication3\Kiemtra_demo\obj\Debug\ConsoleApplication3.exe
+C:\Users\Admin\Desktop\ConsoleApplication3\Kiemtra_demo\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Admin\Desktop\Kiemtra_demo\Kiemtra_demo\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Admin\Desktop\Kiemtra_demo\Kiemtra_demo\obj\Debug\ConsoleApplication3.exe
+C:\Users\Admin\Desktop\Kiemtra_demo\Kiemtra_demo\obj\Debug\ConsoleApplication3.pdb
