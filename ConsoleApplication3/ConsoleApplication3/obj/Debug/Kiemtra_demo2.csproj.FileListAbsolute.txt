@@ -1,12 +1,5 @@
 C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - HTTT2411, CNTT24111\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
 C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - HTTT2411, CNTT24111\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
 C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - HTTT2411, CNTT24111\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - HTTT2411, CNTT24111\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
 C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - HTTT2411, CNTT24111\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - HTTT2411, CNTT24111\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
-C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
-C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
-C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
-C:\Users\Admin\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

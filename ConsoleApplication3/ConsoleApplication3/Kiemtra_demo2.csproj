@@ -44,8 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="classLib.cs" />
-    <Compile Include="Company.cs" />
+    <Compile Include="classLib2.cs" />
+    <Compile Include="OnlineShop.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
